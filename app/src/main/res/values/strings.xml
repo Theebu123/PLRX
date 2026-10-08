@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PLX132 Launcher</string>
+    <string name="launcher_name">PLX132</string>
+    <string name="app_drawer">Apps</string>
+    <string name="gaming_hub">PLX132 Gaming</string>
+    <string name="settings">Settings</string>
+    <string name="search_apps">Search apps…</string>
+    <string name="no_apps_found">No apps found</string>
+    <string name="app_info">App Info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="add_to_home">Pin to Home</string>
+    <string name="remove_from_home">Remove from Home</string>
+    <string name="add_to_gaming">Add to Gaming Hub</string>
+    <string name="remove_from_gaming">Remove from Gaming</string>
+    <string name="set_default_launcher">Set as Default Launcher</string>
+    <string name="default_launcher_prompt">Set PLX132 as your default home screen</string>
+    <string name="developer_options_title">Root ADB bootloader(flash OS)</string>
+    <string name="manage_hidden_apps">Manage Hidden Apps</string>
+    <string name="unhide_all">Unhide All</string>
+</resources>

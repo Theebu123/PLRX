@@ -1,0 +1,6 @@
+{
+  "name": "PLX132 Launcher",
+  "description": "Futuristic gaming-grade Android home screen launcher inspired by REDMAGIC, realme, and SMU26 styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
